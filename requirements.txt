@@ -1,0 +1,8 @@
+langchain
+langchain-chroma
+langchain-huggingface
+langchain-core
+pypdf
+gradio
+python-dotenv
+chromadb
